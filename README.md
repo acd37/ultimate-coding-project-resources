@@ -23,6 +23,6 @@ Simple repository of coding resources for students working on projects
 
 
 ## React
-- [https://material-ui.com/](MaterialUI)
+- [MaterialUI](https://material-ui.com/)
 - [JSS](https://cssinjs.org/?v=v10.1.1)
 
