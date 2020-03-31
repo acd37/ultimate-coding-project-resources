@@ -9,6 +9,8 @@ Simple repository of coding resources for students working on projects
 - [Bootswatch](https://bootswatch.com/)
 - [Coverr](https://coverr.co/search?q=drink)
 - [Unsplash](https://unsplash.com/)
+- [Font Awesome](https://fontawesome.com/start)
+- [Coolors.co](https://coolors.co/) - Color scheme generator
 
 ## CSS Frameworks
 - [Bootstrap](https://getbootstrap.com/)
@@ -16,13 +18,19 @@ Simple repository of coding resources for students working on projects
 - [UIKit](https://getuikit.com/)
 - [SemanticUI](https://semantic-ui.com/)
 - [Pure.CSS](https://purecss.io/)
+- [Skeleton](http://getskeleton.com/) - A dead simple, responsive boilerplate.
 
 ## Utilities
 - [Animate on Scroll](https://michalsnik.github.io/aos/)
 - [Animate.CSS](https://daneden.github.io/animate.css/)
-
+- [Hover.css](https://ianlunn.github.io/Hover/)
+- [Imagehover.css](http://imagehover.io/)
 
 ## React
 - [MaterialUI](https://material-ui.com/)
 - [JSS](https://cssinjs.org/?v=v10.1.1)
+- [React Bootstrap](https://react-bootstrap.github.io/)
+- [Semantic UI React](https://react.semantic-ui.com/)
 
+## Accessibility/ADA
+- [WAVE's Web Accessibility Evaulation Tool](https://wave.webaim.org/)
