@@ -11,7 +11,7 @@ Simple repository of coding resources for students working on projects
 - [Unsplash](https://unsplash.com/)
 - [Font Awesome](https://fontawesome.com/start)
 - [Coolors.co](https://coolors.co/) - Color scheme generator
-- [Start Bootstrap] - Free and Paid Bootstrap Themes
+- [Start Bootstrap](https://startbootstrap.com/) - Free and Paid Bootstrap Themes
 
 ## CSS Frameworks
 - [Bootstrap](https://getbootstrap.com/)
