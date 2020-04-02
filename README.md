@@ -26,6 +26,7 @@ Simple repository of coding resources for students working on projects
 - [Animate.CSS](https://daneden.github.io/animate.css/)
 - [Hover.css](https://ianlunn.github.io/Hover/)
 - [Imagehover.css](http://imagehover.io/)
+- [Animista](https://animista.net/)
 
 ## React
 - [MaterialUI](https://material-ui.com/)
