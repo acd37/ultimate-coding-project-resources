@@ -36,3 +36,6 @@ Simple repository of coding resources for students working on projects
 
 ## Accessibility/ADA
 - [WAVE's Web Accessibility Evaulation Tool](https://wave.webaim.org/)
+
+## SEO (Search Engine Optimization)
+- [metatags.io](https://metatags.io/)
